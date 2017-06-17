@@ -1,0 +1,4 @@
+"E:\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\C++_Project\changlu
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C++_Project/changlu/cmake-build-debug
